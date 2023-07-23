@@ -1,0 +1,4 @@
+#!/bin/sh
+# Convenience for people who are used to ./configure;make;sudo make install
+echo This project does not require the ./configure step. You can proceed
+echo to the make step. 
